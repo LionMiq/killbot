@@ -1,0 +1,2 @@
+# killbot
+https://discord.com/api/webhooks/777243849662660618/YmTlJnco5uaQ9tlqq1q8Drr5GHC5o41Ic68jXaqW3h_3u0eblwZbdxDTQfvXpDgmrPur
